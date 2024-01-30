@@ -5511,3 +5511,8 @@ INFO:root:log my final result [{'Product': 'iphone13pro', 'Name': 'Rukhsar Sheik
 INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 21:06:32] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 21:06:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [07/Jan/2024 21:06:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
